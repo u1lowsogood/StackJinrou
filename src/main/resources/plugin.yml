@@ -1,0 +1,6 @@
+name: StackJinrou
+version: '${project.version}'
+main: com.github.u1lowsogood.stackjinrou.StackJinrou
+api-version: 1.16
+softdepend:
+  - DecentHolograms
